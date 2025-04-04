@@ -1,4 +1,4 @@
-## <img src="https://cdn.brandfetch.io/id8lDQ6AMj/idG0kOimA5.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Snyk" height="44" /> Snyk OSS Vulnerabilities by Manifest
+## <img src="https://cdn.brandfetch.io/id8lDQ6AMj/idG0kOimA5.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Snyk" height="44" /> Snyk OSS Vulnerabilities by Manifest.
 
 This repo demonstrates how to integrate **Snyk Open Source (OSS) vulnerability scanning** into GitHub Actions for a multi-language, multi-module environment. It includes workflows for:
 
